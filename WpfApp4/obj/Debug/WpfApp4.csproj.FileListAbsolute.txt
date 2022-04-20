@@ -1,0 +1,16 @@
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\IG21-191\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
